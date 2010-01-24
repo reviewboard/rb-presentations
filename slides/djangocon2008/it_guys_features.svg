@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="it_guys_features.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2385">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern10256"
+       id="pattern10261"
+       patternTransform="translate(-1.5,-0.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-1.5,-1.5)"
+       id="pattern10202">
+      <rect
+         id="rect8660"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#4563a4;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-51.5,-18.5)"
+       id="pattern10227">
+      <rect
+         id="rect10225"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3e5994;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(5.5,4.5)"
+       id="pattern10247">
+      <rect
+         id="rect10245"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3c5995;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-1.5,-0.5)"
+       id="pattern10256">
+      <rect
+         id="rect10254"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3c5995;stroke-opacity:1" />
+    </pattern>
+    <inkscape:perspective
+       id="perspective11031"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="240.50547"
+     inkscape:cy="327.13258"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="45">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3306"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Background"
+     inkscape:groupmode="layer">
+    <image
+       y="0"
+       x="0"
+       id="image11033"
+       height="600"
+       width="800"
+       sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/slides/djangocon2008/blueprint.png"
+       xlink:href="blueprint.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Title">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3690"
+       width="173"
+       height="116.00001"
+       x="591"
+       y="321.00003" />
+    <rect
+       y="212.99992"
+       x="591.00006"
+       height="108"
+       width="173"
+       id="rect3680"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:1.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3757"
+       width="129"
+       height="45.000004"
+       x="462.00003"
+       y="391.99997" />
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="527.99701"
+       y="418.52634"
+       id="text3759"><tspan
+         sodipodi:role="line"
+         x="527.99701"
+         y="418.52634"
+         id="tspan3761">Mercurial</tspan></text>
+    <rect
+       y="391.99997"
+       x="346"
+       height="45.000004"
+       width="115.99999"
+       id="rect3751"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:1.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3753"
+       y="418.52634"
+       x="403.99695"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan3755"
+         y="418.52634"
+         x="403.99695"
+         sodipodi:role="line">Git</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:1.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3745"
+       width="131.99998"
+       height="45.000004"
+       x="213.99998"
+       y="391.99997" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       x="279.99695"
+       y="418.52634"
+       id="text3747"><tspan
+         sodipodi:role="line"
+         x="279.99695"
+         y="418.52634"
+         id="tspan3749">Subversion</tspan></text>
+    <rect
+       y="391.99997"
+       x="134.00002"
+       height="45.000004"
+       width="80"
+       id="rect3739"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3741"
+       y="418.52634"
+       x="173.99698"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       xml:space="preserve"><tspan
+         id="tspan3743"
+         y="418.52634"
+         x="173.99698"
+         sodipodi:role="line">CVS</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3727"
+       width="99"
+       height="45.000004"
+       x="35"
+       y="391.99997" />
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="85.996956"
+       y="418.52634"
+       id="text3729"><tspan
+         sodipodi:role="line"
+         x="85.996956"
+         y="418.52634"
+         id="tspan3731">Perforce</tspan></text>
+    <rect
+       y="346.99994"
+       x="35.000027"
+       height="45"
+       width="556"
+       id="rect3721"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:1.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3715"
+       width="556"
+       height="89"
+       x="35.000027"
+       y="257.99991" />
+    <rect
+       y="257.99994"
+       x="297"
+       height="45.000004"
+       width="294"
+       id="rect3709"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3674"
+       width="168.77533"
+       height="44.775311"
+       x="422"
+       y="213.22462" />
+    <text
+       id="text3711"
+       y="283.52634"
+       x="445.99695"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan3713"
+         y="283.52634"
+         x="445.99695"
+         sodipodi:role="line">Reviews</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="681.99701"
+       y="367.52634"
+       id="text3692"><tspan
+         id="tspan3698"
+         sodipodi:role="line"
+         x="681.99701"
+         y="367.52634">Yahoo! UI</tspan><tspan
+         sodipodi:role="line"
+         x="681.99701"
+         y="387.52634"
+         id="tspan3705">Library</tspan></text>
+    <text
+       id="text3682"
+       y="250.52632"
+       x="681.99701"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan3684"
+         y="250.52632"
+         x="681.99701"
+         sodipodi:role="line">Yahoo! UI</tspan><tspan
+         y="270.52634"
+         x="681.99701"
+         sodipodi:role="line"
+         id="tspan3688">Extensions</tspan><tspan
+         y="290.52634"
+         x="681.99701"
+         sodipodi:role="line"
+         id="tspan3686">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="508.99695"
+       y="239.52632"
+       id="text3676"><tspan
+         sodipodi:role="line"
+         x="508.99695"
+         y="239.52632"
+         id="tspan3678">Reports</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3668"
+       width="387"
+       height="45.000004"
+       x="35.000004"
+       y="212.99994" />
+    <rect
+       y="167.99994"
+       x="35.000004"
+       height="45.000004"
+       width="169"
+       id="rect3646"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3648"
+       y="195.52632"
+       x="121.99696"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan3650"
+         y="195.52632"
+         x="121.99696"
+         sodipodi:role="line">post-review</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3652"
+       width="169"
+       height="45.000004"
+       x="204.00003"
+       y="167.99994" />
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="289.99695"
+       y="195.52632"
+       id="text3654"><tspan
+         sodipodi:role="line"
+         x="289.99695"
+         y="195.52632"
+         id="tspan3656">iPhone UI</tspan></text>
+    <rect
+       y="167.99994"
+       x="373"
+       height="45.000004"
+       width="391"
+       id="rect3658"
+       style="fill:none;fill-opacity:1;stroke:#eeeeec;stroke-width:1.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3660"
+       y="195.52632"
+       x="565.99701"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan3662"
+         y="195.52632"
+         x="565.99701"
+         sodipodi:role="line">Web UI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="235.99698"
+       y="239.52632"
+       id="text3670"><tspan
+         sodipodi:role="line"
+         x="235.99698"
+         y="239.52632"
+         id="tspan3672">JSON API</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       x="159.99698"
+       y="305.52634"
+       id="text3717"><tspan
+         sodipodi:role="line"
+         x="159.99698"
+         y="305.52634"
+         id="tspan3719">Diff Viewer</tspan></text>
+    <text
+       id="text3723"
+       y="375.52634"
+       x="307.99695"
+       style="font-size:18;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan3725"
+         y="375.52634"
+         x="307.99695"
+         sodipodi:role="line">SCM Tools</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       x="46"
+       y="128"
+       id="text9557"><tspan
+         sodipodi:role="line"
+         id="tspan9559"
+         x="46"
+         y="128">Architecture</tspan></text>
+  </g>
+</svg>

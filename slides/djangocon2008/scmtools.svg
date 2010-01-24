@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="features.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2385">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern10256"
+       id="pattern10261"
+       patternTransform="translate(-1.5,-0.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-1.5,-1.5)"
+       id="pattern10202">
+      <rect
+         id="rect8660"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#4563a4;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-51.5,-18.5)"
+       id="pattern10227">
+      <rect
+         id="rect10225"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3e5994;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(5.5,4.5)"
+       id="pattern10247">
+      <rect
+         id="rect10245"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3c5995;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-1.5,-0.5)"
+       id="pattern10256">
+      <rect
+         id="rect10254"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3c5995;stroke-opacity:1" />
+    </pattern>
+    <inkscape:perspective
+       id="perspective11031"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="349.50164"
+     inkscape:cy="226.13258"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="45">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3306"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Background"
+     inkscape:groupmode="layer">
+    <image
+       y="0"
+       x="0"
+       id="image11033"
+       height="600"
+       width="800"
+       sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/slides/djangocon2008/blueprint.png"
+       xlink:href="blueprint.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Title">
+    <text
+       id="text7885"
+       y="291.52344"
+       x="100.95703"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       xml:space="preserve"><tspan
+         y="291.52344"
+         x="100.95703"
+         id="tspan7887"
+         sodipodi:role="line">CVS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       x="460.95703"
+       y="351.52344"
+       id="text7923"><tspan
+         sodipodi:role="line"
+         id="tspan7925"
+         x="460.95703"
+         y="351.52344">Subversion</tspan></text>
+    <text
+       id="text7927"
+       y="291.52344"
+       x="460.95703"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       xml:space="preserve"><tspan
+         y="291.52344"
+         x="460.95703"
+         id="tspan7929"
+         sodipodi:role="line">Perforce</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       x="100.95703"
+       y="231.52344"
+       id="text7931"><tspan
+         sodipodi:role="line"
+         id="tspan7933"
+         x="100.95703"
+         y="231.52344">Bazaar</tspan></text>
+    <text
+       id="text7935"
+       y="351.52344"
+       x="100.95703"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       xml:space="preserve"><tspan
+         y="351.52344"
+         x="100.95703"
+         id="tspan7937"
+         sodipodi:role="line">Git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       x="100.95703"
+       y="411.52344"
+       id="text7939"><tspan
+         sodipodi:role="line"
+         id="tspan7941"
+         x="100.95703"
+         y="411.52344">Mercurial</tspan></text>
+    <text
+       id="text7943"
+       y="231.52344"
+       x="460.95703"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+       xml:space="preserve"><tspan
+         y="231.52344"
+         x="460.95703"
+         id="tspan7945"
+         sodipodi:role="line">Monotone</tspan></text>
+  </g>
+</svg>

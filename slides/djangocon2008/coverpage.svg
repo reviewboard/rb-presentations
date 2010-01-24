@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="coverpage.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2385">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 300 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="800 : 300 : 1"
+       inkscape:persp3d-origin="400 : 200 : 1"
+       id="perspective10500" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern10232"
+       id="pattern10237" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern10227"
+       id="pattern10232"
+       patternTransform="translate(5.5,4.5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern10202"
+       id="pattern10207"
+       patternTransform="translate(-51.5,-18.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-1.5,-1.5)"
+       id="pattern10202">
+      <rect
+         id="rect8660"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#4563a4;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-51.5,-18.5)"
+       id="pattern10227">
+      <rect
+         id="rect10225"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3e5994;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(5.5,4.5)"
+       id="pattern10247">
+      <rect
+         id="rect10245"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3c5995;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="27"
+       height="27"
+       patternTransform="translate(-1.5,-0.5)"
+       id="pattern10256">
+      <rect
+         id="rect10254"
+         y="0.5"
+         x="0.5"
+         height="26"
+         width="26"
+         style="fill:#385797;fill-opacity:1;stroke:#3c5995;stroke-opacity:1" />
+    </pattern>
+    <inkscape:perspective
+       id="perspective11018"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="281.50547"
+     inkscape:cy="324.13258"
+     inkscape:current-layer="svg2383"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="45">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3306"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <image
+     y="0"
+     x="0"
+     id="image11020"
+     height="600"
+     width="800"
+     sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/slides/djangocon2008/blueprint.png"
+     xlink:href="blueprint.png" />
+  <g
+     id="layer1"
+     inkscape:label="Background"
+     inkscape:groupmode="layer" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Title" />
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 309.07849,223.21288 C 290.82983,226.23331 278.39756,243.59735 281.41801,261.846 L 305.55776,407.6919 C 308.57819,425.94052 325.9422,438.37281 344.19086,435.35238 L 490.03676,411.21263 C 508.28542,408.19218 520.71768,390.82815 517.69726,372.57953 L 493.55751,226.73361 C 490.53706,208.48498 473.17305,196.05268 454.92439,199.07313 L 309.07849,223.21288 z"
+     id="path9301"
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 453.90625 241.28125 L 351.34375 258.25 C 352.52416 260.38564 353.36023 262.76882 353.78125 265.3125 C 355.76503 277.29789 347.64165 288.60998 335.65625 290.59375 C 333.11151 291.01494 330.62173 290.99235 328.21875 290.5625 L 345.1875 393.125 L 475.46875 371.5625 L 453.90625 241.28125 z "
+     id="rect9303" />
+  <path
+     transform="matrix(17.213344,-2.8490748,2.8490748,17.213344,219.06132,202.22323)"
+     d="M 7.0277231,4.8277225 A 1.2613862,1.2613862 0 1 1 4.5049508,4.8277225 A 1.2613862,1.2613862 0 1 1 7.0277231,4.8277225 z"
+     sodipodi:ry="1.2613862"
+     sodipodi:rx="1.2613862"
+     sodipodi:cy="4.8277225"
+     sodipodi:cx="5.7663369"
+     id="path9305"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.11462938;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc"
+     inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     y="334.18399"
+     x="313.05148"
+     height="14.672049"
+     width="73.360252"
+     id="rect9307"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:1.99999997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     transform="matrix(0.9865775,-0.1632938,0.1632938,0.9865775,0,0)" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:1.99999997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect9309"
+     width="88.03231"
+     height="14.672049"
+     x="298.37949"
+     y="363.52808"
+     inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     transform="matrix(0.9865775,-0.1632938,0.1632938,0.9865775,0,0)" />
+  <rect
+     y="392.87222"
+     x="298.37949"
+     height="14.672049"
+     width="88.03231"
+     id="rect9311"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:1.99999997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     transform="matrix(0.9865775,-0.1632938,0.1632938,0.9865775,0,0)" />
+  <text
+     id="text9313"
+     y="557.16901"
+     x="354.39459"
+     style="font-size:27.61125945999999942px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+     xml:space="preserve"
+     sodipodi:linespacing="150%"
+     transform="matrix(0.9870273,-0.1605527,0.1605527,0.9870273,0,0)"><tspan
+       y="557.16901"
+       x="354.39459"
+       id="tspan9315"
+       sodipodi:role="line">christian hammond</tspan><tspan
+       y="598.58588"
+       x="354.39459"
+       sodipodi:role="line"
+       id="tspan9317">david trowbridge</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:47.13049697999999665px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New;font-stretch:normal;font-variant:normal"
+     x="338.42517"
+     y="153.09438"
+     id="text9319"
+     transform="matrix(0.9870273,-0.1605527,0.1605527,0.9870273,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan9321"
+       x="338.42517"
+       y="153.09438">Developing</tspan><tspan
+       sodipodi:role="line"
+       x="338.42517"
+       y="212.00749"
+       id="tspan9376">Review Board</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     x="340.59711"
+     y="187.61353"
+     id="text9344"
+     transform="matrix(0.9870273,-0.1605527,0.1605527,0.9870273,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan9346"
+       x="340.59711"
+       y="187.61353"> </tspan></text>
+  <rect
+     style="fill:none;stroke:none"
+     width="27"
+     height="27"
+     x="-51.5"
+     y="-18.5"
+     id="rect10205" />
+  <rect
+     style="stroke:none;fill:none;fill-opacity:1"
+     width="27"
+     height="27"
+     x="5.5"
+     y="4.5"
+     id="rect10239" />
+  <rect
+     style="fill:none;stroke:none"
+     width="27"
+     height="27"
+     x="5.5"
+     y="4.5"
+     id="rect10241" />
+  <rect
+     style="fill:none;stroke:none"
+     width="27"
+     height="27"
+     x="-1.5"
+     y="-0.5"
+     id="rect10250" />
+</svg>

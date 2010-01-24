@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="design_high_level_architecture.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2385">
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3248"
+       bendpath="M 480.262,198.563 L 696.7,398.563"
+       prop_scale="1"
+       bendpath-nodetypes="cc"
+       scale_y_rel="false"
+       vertical="false" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect3246"
+       teeth="10" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect3244"
+       teeth="10" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect3242"
+       teeth="10" />
+    <linearGradient
+       id="linearGradient3200">
+      <stop
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0"
+         id="stop3202" />
+      <stop
+         style="stop-color:#204a87;stop-opacity:1"
+         offset="1"
+         id="stop3204" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="110 : 81 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="910 : 81 : 1"
+       inkscape:persp3d-origin="510 : -19 : 1"
+       id="perspective2391" />
+    <filter
+       id="filter3163"
+       inkscape:label="filter1" />
+    <inkscape:perspective
+       id="perspective3469"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 8 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="285.61312"
+     inkscape:cy="321.49469"
+     inkscape:current-layer="svg2383"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="45">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3306"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Background"
+     inkscape:groupmode="layer" />
+  <path
+     style="fill:#e9b96e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0 0 C 0 7.4596745 0 14.915326 0 22.375 C 0 27.594688 0 32.811561 0 38.03125 L 0 63.5625 C 0.96974811 65.56659 2.5541568 66.973615 5.0625 67.40625 C 123.59226 86.371569 245.54298 86.181375 364.1875 71.25 C 508.4855 47.283708 655.28929 60.888006 800 73 C 800 48.666667 800 24.333333 800 0 C 533.33333 0 266.66667 0 0 0 z "
+     id="rect3308" />
+  <g
+     id="g3558"
+     transform="matrix(0.9850648,-0.1721838,0.1721838,0.9850648,-11.763776,14.378288)">
+    <rect
+       ry="4"
+       rx="4"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       style="fill:#e9b96e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2930"
+       width="99.947533"
+       height="99.75"
+       x="26.92746"
+       y="25.125" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       y="25.125"
+       x="26.92746"
+       height="28.5"
+       width="99.947533"
+       id="rect2932"
+       style="opacity:0.34065935;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       sodipodi:nodetypes="ccccccccc"
+       id="path2936"
+       d="M 41.105567,22.789916 C 32.123143,22.789916 24.789916,30.123143 24.789916,39.105567 L 24.789916,110.89443 C 24.789916,119.87685 32.123143,127.21008 41.105567,127.21008 L 112.89443,127.21008 C 121.87686,127.21008 129.21008,119.87685 129.21008,110.89443 L 129.21008,39.105567 C 129.21008,30.123143 121.87686,22.789916 112.89443,22.789916 L 41.105567,22.789916 z"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#663f00;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       style="fill:#fce94f;fill-opacity:1;fill-rule:nonzero;stroke:#9c7f00;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2940"
+       width="64.125008"
+       height="64.125015"
+       x="44.9375"
+       y="42.9375" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       sodipodi:type="arc"
+       style="fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:0.23604886;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2942"
+       sodipodi:cx="5.7663369"
+       sodipodi:cy="4.8277225"
+       sodipodi:rx="1.2613862"
+       sodipodi:ry="1.2613862"
+       d="M 7.0277231,4.8277225 A 1.2613862,1.2613862 0 1 1 4.5049508,4.8277225 A 1.2613862,1.2613862 0 1 1 7.0277231,4.8277225 z"
+       transform="matrix(8.472822,0,0,8.472822,-0.35712,5.59559)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       style="opacity:0.08791211;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2944"
+       width="35.625"
+       height="7.125"
+       x="62.75"
+       y="53.625" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       y="67.875"
+       x="55.625"
+       height="7.125"
+       width="42.75"
+       id="rect2946"
+       style="opacity:0.08791211;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chipx86/src/reviewboard/htdocs/images/favicon.png"
+       style="opacity:0.08791211;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2948"
+       width="42.75"
+       height="7.125"
+       x="55.625"
+       y="82.125" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Title">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="152"
+       y="45"
+       id="text3573"><tspan
+         sodipodi:role="line"
+         id="tspan3575"
+         x="152"
+         y="45">High-level architecture</tspan></text>
+    <rect
+       y="306.61234"
+       x="282.61234"
+       height="57.775311"
+       width="204.77531"
+       id="rect4835"
+       style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4837"
+       y="339.91406"
+       x="384.60934"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan4841"
+         y="339.91406"
+         x="384.60934"
+         sodipodi:role="line">Review Board</tspan></text>
+    <rect
+       style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3206"
+       width="204.77531"
+       height="57.775311"
+       x="550.6123"
+       y="306.61234" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="652.60938"
+       y="339.91406"
+       id="text3208"><tspan
+         sodipodi:role="line"
+         x="652.60938"
+         y="339.91406"
+         id="tspan3210">Repository</tspan></text>
+    <rect
+       style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3212"
+       width="204.77531"
+       height="57.775311"
+       x="282.61234"
+       y="426.61234" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="384.60934"
+       y="459.91406"
+       id="text3214"><tspan
+         sodipodi:role="line"
+         x="384.60934"
+         y="459.91406"
+         id="tspan3216">memcached</tspan></text>
+    <rect
+       style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3218"
+       width="204.77531"
+       height="57.775311"
+       x="282.61234"
+       y="186.61234" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="384.60934"
+       y="219.91406"
+       id="text3220"><tspan
+         sodipodi:role="line"
+         x="384.60934"
+         y="219.91406"
+         id="tspan3222">Database Server</tspan></text>
+    <rect
+       style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3224"
+       width="204.77531"
+       height="57.775311"
+       x="42.612343"
+       y="186.61234" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="144.60934"
+       y="219.91406"
+       id="text3226"><tspan
+         sodipodi:role="line"
+         x="144.60934"
+         y="219.91406"
+         id="tspan3228">Web Server</tspan></text>
+    <path
+       style="opacity:1;fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 384,373.5625 L 376.65625,380.59375 L 369.3125,387.59375 L 378.75,387.59375 L 378.75,404.40625 L 369.3125,404.40625 L 376.65625,411.40625 L 384,418.4375 L 391.34375,411.40625 L 398.6875,404.40625 L 389.25,404.40625 L 389.25,387.59375 L 398.6875,387.59375 L 391.34375,380.59375 L 384,373.5625 z"
+       id="path4852" />
+    <path
+       id="path3238"
+       d="M 384,253.5625 L 376.65625,260.59375 L 369.3125,267.59375 L 378.75,267.59375 L 378.75,284.40625 L 369.3125,284.40625 L 376.65625,291.40625 L 384,298.4375 L 391.34375,291.40625 L 398.6875,284.40625 L 389.25,284.40625 L 389.25,267.59375 L 398.6875,267.59375 L 391.34375,260.59375 L 384,253.5625 z"
+       style="opacity:1;fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 495.5625,336 L 502.59375,343.34375 L 509.59375,350.6875 L 509.59375,341.25 L 526.40625,341.25 L 526.40625,350.6875 L 533.40625,343.34375 L 540.4375,336 L 533.40625,328.65625 L 526.40625,321.3125 L 526.40625,330.75 L 509.59375,330.75 L 509.59375,321.3125 L 502.59375,328.65625 L 495.5625,336 z"
+       id="path3240" />
+    <path
+       style="opacity:1;fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 199.75 256.59375 L 199.75 330.75 L 199.5625 330.75 L 199.5625 341.25 L 256.40625 341.25 L 256.40625 350.6875 L 263.40625 343.34375 L 270.4375 336 L 263.40625 328.65625 L 256.40625 321.3125 L 256.40625 330.75 L 210.25 330.75 L 210.25 256.59375 L 199.75 256.59375 z "
+       id="path3244" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="507"
+       y="201"
+       id="text3249"><tspan
+         sodipodi:role="line"
+         id="tspan3251"
+         x="507"
+         y="201">Data is stored in the database</tspan><tspan
+         sodipodi:role="line"
+         x="507"
+         y="221"
+         id="tspan3255">using Django's object-relational</tspan><tspan
+         sodipodi:role="line"
+         x="507"
+         y="241"
+         id="tspan3259">mapping system</tspan></text>
+    <text
+       id="text3261"
+       y="405"
+       x="520"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3267"
+         y="405"
+         x="520"
+         sodipodi:role="line">Diffs are stored in Review Board</tspan><tspan
+         y="425"
+         x="520"
+         sodipodi:role="line"
+         id="tspan3274">as unified diffs against specific</tspan><tspan
+         y="445"
+         x="520"
+         sodipodi:role="line"
+         id="tspan3276">revisions of files in a repository.</tspan><tspan
+         y="465"
+         x="520"
+         sodipodi:role="line"
+         id="tspan3278">To display side-by-side diffs,</tspan><tspan
+         y="485"
+         x="520"
+         sodipodi:role="line"
+         id="tspan3280">we fetch the file from the</tspan><tspan
+         y="505"
+         x="520"
+         sodipodi:role="line"
+         id="tspan3282">repository, cache it, apply the</tspan><tspan
+         y="525"
+         x="520"
+         sodipodi:role="line"
+         id="tspan3288">diff and render it.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="39"
+       y="439"
+       id="text3294"><tspan
+         id="tspan3308"
+         sodipodi:role="line"
+         x="39"
+         y="439">Various pieces of data</tspan><tspan
+         sodipodi:role="line"
+         x="39"
+         y="459"
+         id="tspan3337">(rendered diff fragments,</tspan><tspan
+         sodipodi:role="line"
+         x="39"
+         y="479"
+         id="tspan3339">files from the repository,</tspan><tspan
+         sodipodi:role="line"
+         x="39"
+         y="499"
+         id="tspan3341">etc.) are cached to improve</tspan><tspan
+         sodipodi:role="line"
+         x="39"
+         y="519"
+         id="tspan3343">performance.</tspan></text>
+    <text
+       id="text3345"
+       y="279"
+       x="40"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3355"
+         y="279"
+         x="40"
+         sodipodi:role="line">Requests come in</tspan><tspan
+         y="299"
+         x="40"
+         sodipodi:role="line"
+         id="tspan3373">from the web</tspan><tspan
+         y="319"
+         x="40"
+         sodipodi:role="line"
+         id="tspan3377">server.</tspan></text>
+  </g>
+  <rect
+     style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:none;stroke-width:6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect3579"
+     width="800"
+     height="34"
+     x="-5.6843419e-14"
+     y="566" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     x="9"
+     y="589"
+     id="text3583"><tspan
+       sodipodi:role="line"
+       id="tspan3585"
+       x="9"
+       y="589">Review Board - http://www.review-board.org/</tspan></text>
+</svg>
