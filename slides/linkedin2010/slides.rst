@@ -117,6 +117,7 @@ Challenges
 ..
     : "Some of our best features aren't well known..."
 
+
 =====================
 Lesser-known features
 =====================
@@ -127,7 +128,13 @@ Lesser-known features
 
 * Reports
 
+* Diff viewer keyboard shortcuts
+
+* Automatic linking
+
 * post-review
+
+* Web API
 
 * Trophies
 
@@ -181,6 +188,40 @@ Reports
 * Plan to improve this as an extension in 2.0.
 
 
+==============================
+Diff viewer keyboard shortcuts
+==============================
+
+::
+
+    a A K P < m   - Previous file
+    f F J N >     - Next file
+    s S k p ,     - Previous diff
+    d D j n .     - Next diff
+    <Space>       - Recenter selection
+    [ x           - Previous comment
+    ] c           - Next comment
+
+
+=================
+Automatic linking
+=================
+
+* Link to pages, bugs, and other URLs easily
+
+* Examples:
+
+  * **URLs:** http://www.example.com/
+
+  * **Review requests:** `/r/123`
+
+  * **Diffs:** `/r/123/diff`, `/r/123/diff/2/`
+
+  * **Bug numbers:** `Bug #123`, `Bug 123` `Issue #123`
+
+* Works in the Description and Testing Done fields, and in reviews
+
+
 ===========
 post-review
 ===========
@@ -209,11 +250,44 @@ Post specific files::
   $ post-review src/foo.c src/bar.c
 
 
+=======
+Web API
+=======
+
+* Write client applications that talk to Review Board
+
+* Can do *almost* everything the Review Board web UI can do
+
+* HTTP GET/POST with JSON responses
+
+* Future versions will be more REST-ful.
+
+* Examples of existing clients:
+
+  * post-review
+
+  * Eclipse IDE plugin
+
+  * Subversion, Git and Perforce post-commit hooks
+
+  * Mercurial's ``hg postreview``
+
+  * Perl WebService::ReviewBoard module
+
+
 ========
 Trophies
 ========
 
-TODO
+* Certain review requests get special trophies! We'll let you figure out
+  which.
+
+* First trophy appears on the 1000th review request.
+
+.. image:: ../../graphics/screenshots/2010/milestone-trophies.png
+
+.. image:: ../../graphics/screenshots/2010/fish-trophies.png
+
 
 
 ========================
