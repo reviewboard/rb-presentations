@@ -136,7 +136,7 @@ Lesser-known features
 Dashboard customization
 =======================
 
-.. image:: screenshots/dashboard_customization.png
+.. image:: ../../graphics/screenshots/2010/dashboard_customization.png
 
 .. is:offset_x +40
 .. is:offset_y -200
@@ -160,7 +160,7 @@ Screenshot commenting
 
 * Works just like comments on the diff viewer
 
-.. image:: screenshots/screenshot-comment-dlg.png
+.. image:: ../../graphics/screenshots/2010/screenshot-comment-dlg.png
 
 
 =======
@@ -245,7 +245,7 @@ Update notifications
 
 * Non-intrusive
 
-.. image:: screenshots/notifications.png
+.. image:: ../../graphics/screenshots/2010/notifications.png
 
 
 ============
@@ -264,7 +264,7 @@ HTML e-mails
 
 .. is:offset_y -30
 
-.. image:: screenshots/html-emails.png
+.. image:: ../../graphics/screenshots/2010/html-emails.png
 
 
 ======================
@@ -275,7 +275,7 @@ Improved auto-complete
 
 * No more having to remember usernames
 
-.. image:: screenshots/autocomplete.png
+.. image:: ../../graphics/screenshots/2010/autocomplete.png
 
 
 ===================================
@@ -312,14 +312,14 @@ Move detection
 
 * Google Summer of Code 2009 project by Eduardo Felipe Castegnaro
 
-.. image:: screenshots/move-detection.png
+.. image:: ../../graphics/screenshots/2010/move-detection.png
 
 
 ======================
 Function/class headers
 ======================
 
-.. image:: screenshots/function-headers.png
+.. image:: ../../graphics/screenshots/2010/function-headers.png
 
 * See what function/class is defined before a collapsed region
 

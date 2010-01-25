@@ -474,8 +474,7 @@ image{shape-rendering:crispEdges}
        id="image8465"
        height="40"
        width="157.44681"
-       sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/temp/logos/alcatel-lucent.jpg"
-       xlink:href="logos/alcatel-lucent.jpg" />
+       xlink:href="graphics/logos/alcatel-lucent.jpg" />
     <text
        xml:space="preserve"
        style="font-size:27.96320724px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
@@ -544,8 +543,7 @@ image{shape-rendering:crispEdges}
        id="image8587"
        height="36"
        width="129"
-       sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/temp/logos/linkedin.png"
-       xlink:href="logos/linkedin.png" />
+       xlink:href="graphics/logos/linkedin.png" />
     <g
        id="g8618"
        transform="matrix(0.666333,0,0,0.666333,20.668332,199.03185)">
@@ -1261,16 +1259,14 @@ image{shape-rendering:crispEdges}
        id="image10493"
        height="20"
        width="130.7317"
-       sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/temp/logos/vmware.png"
-       xlink:href="logos/vmware.png" />
+       xlink:href="graphics/logos/vmware.png" />
     <image
        y="192"
        x="230"
        id="image10506"
        height="43"
        width="154.8"
-       sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/temp/logos/peachtree.jpg"
-       xlink:href="logos/peachtree.jpg" />
+       xlink:href="graphics/logos/peachtree.jpg" />
     <g
        style="overflow:visible"
        id="g10555"
