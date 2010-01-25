@@ -341,6 +341,14 @@ class inkSlide(object):
             elif node.tag == 'strong':
                 element = ET.Element('tspan')
                 element.set('font-weight', 'bold')
+            elif node.tag in ['reference', 'title_reference']:
+                element = ET.Element('tspan')
+                element.set('text-decoration', 'underline')
+                element.set('fill', '#0000FF')
+            elif node.tag == 'literal':
+                element = ET.Element('tspan')
+                # XXX
+                element.set('font-family', 'Bitstream Vera Sans Mono')
             elif node.tag == 'reference':
                 element = ET.Element('tspan')
                 element.set('text-decoration', 'underline')
