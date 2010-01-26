@@ -84,9 +84,9 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="284.50515"
-     inkscape:cy="287.99469"
-     inkscape:current-layer="layer4"
+     inkscape:cx="177.50515"
+     inkscape:cy="306.99469"
+     inkscape:current-layer="layer17"
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
@@ -179,13 +179,13 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Frames"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer12"
        inkscape:label="fr_tab3"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <flowRoot
          xml:space="preserve"
          id="fr_tab3"
@@ -300,7 +300,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer4"
-       inkscape:label="fr_literal_block">
+       inkscape:label="fr_literal_block"
+       sodipodi:insensitive="true">
       <flowRoot
          xml:space="preserve"
          id="fr_literal_block"
@@ -316,6 +317,11 @@
              style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono" /></flowRegion><flowPara
            id="flowPara7910">Blockquote Sy</flowPara></flowRoot>    </g>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Instance"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer10"

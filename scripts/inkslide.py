@@ -693,7 +693,8 @@ class inkSlide(object):
 
         for i in drop:
             e = self.groupOrLayer(i)
-            if e:
+
+            if e is not None:
                 e.xpath('..')[0].remove(e)
 
         # problem losing xlink ns?

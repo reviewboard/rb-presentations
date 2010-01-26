@@ -1,14 +1,28 @@
+==========
+Cover Page
+==========
+
+.. is:blank
+.. is:id coverpage
+
+Review Board
+
+Christian Hammond - chipx86@chipx86.com
+
+
 ======================
 A little background...
 ======================
 
-* Wrote it to improve upon traditional code review
-
-* First experience with large-scale webapps and Django
+* Written by Christian Hammond and David Trowbridge in 2006
 
 * Developed as an experiment
 
+* Wrote it to improve upon traditional code review
+
 * Didn't plan on it becoming as large as it is today
+
+* First experience with large-scale webapps and Django
 
 
 =======================
@@ -17,13 +31,31 @@ Traditional code review
 
 * E-mail raw or HTML diffs to reviewers
 
+* Time-consuming
+
 * Not always easy to describe *where* in a diff to make changes
 
 * Hard to review iterations of large diffs
 
 * Hard to keep track of review history for a change
 
-* Time-consuming
+
+
+=====
+Goals
+=====
+
+* Provide as much context as possible
+
+* Inline commenting
+
+* Keep discussions all together
+
+* Quick glance at what needs reviewing
+
+* Not too much UI
+
+* Extensibility
 
 
 ================
@@ -46,14 +78,14 @@ Ended up with...
 
   * Integration with third-party tools
 
-* A lot of users
+* Many satisfied users across hundreds of companies
 
 
 ============================
 Companies using Review Board
 ============================
 
-.. image:: company_logos.svg
+.. is:id company_names
 
 
 ===========================
@@ -88,6 +120,27 @@ Tools and services used
 * **Sourcecode Repository:** Git on GitHub
 
   * Used to use Subversion, but Git has many advantages for us and our users
+
+
+==================
+Basic architecture
+==================
+
+.. image:: ../../diagrams/2010/codebase_architecture.svg
+
+
+=====================
+Detailed architecture
+=====================
+
+.. image:: ../../diagrams/2010/codebase_architecture_detailed.svg
+
+
+=================
+View diff process
+=================
+
+.. image:: ../../diagrams/2010/view_diff_process.svg
 
 
 ==========
@@ -126,13 +179,15 @@ Lesser-known features
 
 * Screenshot commenting
 
-* Reports
-
 * Diff viewer keyboard shortcuts
 
 * Automatic linking
 
 * post-review
+
+* Reports
+
+* Default Reviewers
 
 * Web API
 
@@ -170,24 +225,6 @@ Screenshot commenting
 .. image:: ../../graphics/screenshots/2010/screenshot-comment-dlg.png
 
 
-=======
-Reports
-=======
-
-* http://reviewboard.example.com/reports/
-
-* Text and wiki-formatted lists of reviews given and review requests posted
-  in a specified time-frame.
-
-* Useful for pasting into status reports.
-
-* Defaults to a week. Append ?period=<number of days> to change this.
-
-* Very basic. Hidden for a reason.
-
-* Plan to improve this as an extension in 2.0.
-
-
 ==============================
 Diff viewer keyboard shortcuts
 ==============================
@@ -217,7 +254,7 @@ Automatic linking
 
   * **Diffs:** `/r/123/diff`, `/r/123/diff/2/`
 
-  * **Bug numbers:** `Bug #123`, `Bug 123` `Issue #123`
+  * **Bug numbers:** `Bug #123`, `Bug 123`, `Issue #123`
 
 * Works in the Description and Testing Done fields, and in reviews
 
@@ -232,22 +269,50 @@ post-review
 
 * Easy to use!
 
+* Examples:
 
-.. is:offset_x +25
-.. is:offset_y +30
+  * Create a new review request::
+
+      $ post-review
+
+  * Update an existing review request::
+
+      $ post-review -r 42
+
+  * Post specific files::
+
+      $ post-review src/foo.c src/bar.c
 
 
-Create a new review request::
+=======
+Reports
+=======
 
-  $ post-review
+* http://reviewboard.example.com/reports/
 
-Update an existing review request::
+* Text and wiki-formatted lists of reviews given and review requests posted
+  in a specified time-frame.
 
-  $ post-review -r 42
+* Useful for pasting into status reports.
 
-Post specific files::
+* Defaults to a week. Append ?period=<number of days> to change this.
 
-  $ post-review src/foo.c src/bar.c
+* Very basic. Hidden for a reason.
+
+* Plan to improve this as an extension in 2.0.
+
+
+=================
+Default reviewers
+=================
+
+* Define default reviewers for all new review requests based on repository
+  and file path
+
+* Useful for placing feature owners on all review requests touching their
+  feature
+
+* Must be set by adminstrators
 
 
 =======
@@ -362,7 +427,7 @@ Screenshot upload via drag-and-drop
 
 * Requires Google Chrome or Google Gears right now
 
-* By 1.5, will support modern browsers using HTML 5
+* By 1.5 beta 1, will require modern browsers using HTML 5
 
 
 ==============================
@@ -405,3 +470,177 @@ Function/class headers
   and PHP
 
 * In the future, plans to add an Expand to Function link
+
+
+==========================
+Features planned after 1.5
+==========================
+
+* Inline help/tips
+
+* Attach files to review requests
+
+* Incremental expansion of diffs
+
+* Gravatars
+
+* WebHooks
+
+* Policy support
+
+* Extensions
+
+
+================
+Inline help/tips
+================
+
+* Dismissable tip banners for new features or new users
+
+* Help icons/buttons that link to the proper documentation
+
+* Would have been useful for some of the lesser-known features
+  (diff viewer keyboard shortcuts)
+
+* Planned for 1.6
+
+
+===============================
+Attach files to review requests
+===============================
+
+* Attach files other than screenshots
+
+* Useful for spreadsheets, log files, extra images, sample data, and more
+
+* Use the web UI or post-review to attach files
+
+* Administrator-provided file size limits
+
+* Planned for 1.6
+
+
+==============================
+Incremental expansion of diffs
+==============================
+
+* Expand 5 lines, 10 lines, 20, or more
+
+* Expand up to the nearest function or class
+
+* Undo the last or all expansions
+
+* Planned for 1.6
+
+
+=========
+Gravatars
+=========
+
+* "Globally-recognized avatars"
+
+* Users can set an image representing them that will appear in the UI next
+  to their name
+
+* Easier way to identify people
+
+* Planned for 1.6
+
+
+========
+WebHooks
+========
+
+* Better integrate Review Board with third-party services/scripts
+
+* Review Board will make an HTTP POST on several events:
+
+  * Creating/updating a review request
+
+  * Closing a review request
+
+  * Posting a review
+
+  * Replying to a review
+
+* Lots of uses
+
+  * Update bug reports when creating or closing a review request
+
+  * Running sandbox builds with new diffs
+
+  * Notifying users on updates over an internal service (such as identi.ca)
+
+* Shipping in 1.6.
+
+
+==============
+Policy support
+==============
+
+* Finer-grained control of a Review Board installation
+
+* Administrators can specify:
+
+  * Who can join or browse groups
+
+  * Who can look at code in a repository, per-path
+
+  * How many or which reviewers must review changes to a group
+
+* Policy rules can be written with flexible expressions
+
+  * Extensions can extend the policy expression language
+
+  * Use expressions to tie rules into company-specific services
+
+* Planned for 2.0
+
+
+==========
+Extensions
+==========
+
+* Custom Python code that can extend the functionality of Review Board
+
+* Extension capabilities:
+
+  * Override/augment page content
+
+  * Access to internal logic and data
+
+  * Provide new web API
+
+  * Provide new settings or administration capabilities
+
+  * Add columns and sidebar entries to the dashboard
+
+  * Hook into events (Review Board initialization, creating review requests,
+    reviews, and more)
+
+* Administrators will be able to download and install extensions through an
+  integrated App Store-style browser
+
+* Planned for 2.0
+
+
+================
+Looking for help
+================
+
+* Donations
+
+* Code contributions
+
+* Documentation
+
+* Testing
+
+* Support
+
+
+=====================
+Thanks for listening!
+=====================
+
+Any questions?
