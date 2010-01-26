@@ -1,12 +1,12 @@
 #!/bin/sh
 
-mkdir -p pdf
+mkdir -p pdf/tmp
 FILES=""
 
 for file in `cat $1`
 do
 	pdf_file="pdf/`basename $file .svg`.pdf"
-	#inkscape -z -A $pdf_file $file
+	inkscape -z -d 120 -A $pdf_file $file
 	FILES="$FILES $pdf_file"
 done
 
