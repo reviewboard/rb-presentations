@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="template.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   style="display:inline">
+  <defs
+     id="defs2385">
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3248"
+       bendpath="m 480.262,198.563 216.438,200"
+       prop_scale="1"
+       bendpath-nodetypes="cc"
+       scale_y_rel="false"
+       vertical="false"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect3246"
+       teeth="10"
+       is_visible="true"
+       phi="5" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect3244"
+       teeth="10"
+       is_visible="true"
+       phi="5" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect3242"
+       teeth="10"
+       is_visible="true"
+       phi="5" />
+    <linearGradient
+       id="linearGradient3200">
+      <stop
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0"
+         id="stop3202" />
+      <stop
+         style="stop-color:#204a87;stop-opacity:1"
+         offset="1"
+         id="stop3204" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="110 : 81 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="910 : 81 : 1"
+       inkscape:persp3d-origin="510 : -19 : 1"
+       id="perspective2391" />
+    <filter
+       id="filter3163"
+       inkscape:label="filter1"
+       color-interpolation-filters="sRGB" />
+    <inkscape:perspective
+       id="perspective3469"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 8 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9414"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59316868"
+     inkscape:cx="512"
+     inkscape:cy="306.99469"
+     inkscape:current-layer="layer17"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1278"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3306"
+       visible="true"
+       enabled="true"
+       empspacing="5"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <image
+     sodipodi:absref="/home/david/Projects/rb-presentations/slides/yelp2011/background.svg"
+     xlink:href="background.svg"
+     width="1024"
+     height="768.12036"
+     id="image9416"
+     x="3.0309717e-05"
+     y="-0.10713438" />
+  <g
+     id="layer1"
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     style="display:inline"
+     transform="translate(0,168)"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Blockquotes"
+     style="display:none"
+     transform="translate(0,168)"
+     sodipodi:insensitive="true">
+    <path
+       id="bq_left"
+       d="m 149.58269,85.841423 c -0.43859,2.412749 -1.69968,4.496601 -3.78324,6.251558 -2.19314,1.864366 -4.55082,2.796613 -7.07304,2.796741 -2.63177,-1.28e-4 -4.55079,-1.151733 -5.75711,-3.454791 -1.31585,-2.303352 -1.64484,-4.990414 -0.98695,-8.061238 1.09666,-5.374266 3.34469,-9.980675 6.74406,-13.819253 3.28983,-3.838783 8.33416,-7.677451 15.13299,-11.516016 1.31596,-0.32914 1.59011,0.109602 0.82245,1.316111 -4.71531,4.167603 -7.73094,7.403048 -9.04689,9.706362 -1.31588,2.412787 -2.02865,4.277282 -2.13836,5.593521 -0.10957,1.425663 0.38386,2.303083 1.48039,2.632236 1.09664,0.438575 2.24807,1.425662 3.45428,2.961247 1.20629,1.645034 1.5901,3.509541 1.15142,5.593522 m -30.75945,0 c -0.43856,2.412749 -1.69964,4.496601 -3.78326,6.251558 -2.1931,1.864366 -4.55076,2.796613 -7.07302,2.796741 -2.63173,-1.28e-4 -4.55077,-1.151733 -5.75711,-3.454791 -1.31582,-2.303352 -1.6448,-4.990414 -0.98694,-8.061238 1.09668,-5.374266 3.3447,-9.980675 6.74405,-13.819253 3.28987,-3.838783 8.33419,-7.677451 15.133,-11.516016 1.31597,-0.32914 1.59012,0.109602 0.82244,1.316111 -4.71529,4.167603 -7.73092,7.403048 -9.0469,9.706362 -1.31583,2.412787 -2.02862,4.277282 -2.13835,5.593521 -0.10958,1.425663 0.38388,2.303083 1.4804,2.632236 1.09667,0.438575 2.24809,1.425662 3.45427,2.961247 1.20632,1.645034 1.59013,3.509541 1.15142,5.593522"
+       style="font-size:131.59124756px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dcdfd9;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       inkscape:label="#path3454"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:131.59124756px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dcdfd9;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       d="m 866.73733,120.74933 c 0.4386,-2.41274 1.69967,-4.4966 3.78325,-6.25155 2.19314,-1.86438 4.55081,-2.79662 7.07303,-2.79675 2.63178,1.3e-4 4.5508,1.15173 5.75712,3.4548 1.31585,2.30334 1.64484,4.99042 0.98693,8.06123 -1.09664,5.37426 -3.34467,9.98069 -6.74405,13.81925 -3.28982,3.83878 -8.33415,7.67746 -15.13298,11.51603 -1.31596,0.32913 -1.59011,-0.1096 -0.82246,-1.31612 4.71532,-4.16761 7.73095,-7.40305 9.0469,-9.70637 1.31586,-2.41277 2.02865,-4.27728 2.13836,-5.5935 0.10957,-1.42568 -0.38386,-2.30309 -1.4804,-2.63224 -1.09664,-0.43859 -2.24806,-1.42568 -3.45427,-2.96126 -1.20629,-1.64503 -1.5901,-3.50953 -1.15143,-5.59352 m 30.75946,0 c 0.43856,-2.41274 1.69964,-4.4966 3.78325,-6.25155 2.19311,-1.86438 4.55077,-2.79662 7.07303,-2.79675 2.63173,1.3e-4 4.55077,1.15173 5.75711,3.4548 1.31581,2.30334 1.6448,4.99042 0.98694,8.06123 -1.09669,5.37426 -3.3447,9.98069 -6.74405,13.81925 -3.28988,3.83878 -8.33421,7.67746 -15.133,11.51603 -1.31597,0.32913 -1.59012,-0.1096 -0.82244,-1.31612 4.71528,-4.16761 7.73091,-7.40305 9.04689,-9.70637 1.31584,-2.41277 2.02863,-4.27728 2.13835,-5.5935 0.10957,-1.42568 -0.38388,-2.30309 -1.48039,-2.63224 -1.09667,-0.43859 -2.24809,-1.42568 -3.45427,-2.96126 -1.20633,-1.64503 -1.59014,-3.50953 -1.15142,-5.59352"
+       id="bq_right"
+       inkscape:label="#text3449"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="gr_text"
+     style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fr_title"
+     style="display:none"
+     transform="translate(0,168)"
+     sodipodi:insensitive="true">
+    <flowRoot
+       transform="matrix(1.2799999,0,0,1.2802006,35.980302,-307.35087)"
+       inkscape:label="#flowRoot2726"
+       style="font-size:31px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="fr_title"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3330"><rect
+           style="font-size:31px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           y="133.71428"
+           x="125.71429"
+           height="587.31897"
+           width="914.15259"
+           id="rect3332" /></flowRegion><flowPara
+         id="flowPara3334">Title Sy</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Title"
+     style="display:inline"
+     transform="translate(0,168)"
+     sodipodi:insensitive="true">
+    <g
+       id="gr_title"
+       inkscape:label="#g2350" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Frames"
+     style="display:none"
+     transform="translate(0,168)"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="fr_tab3"
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="fr_tab3"
+         style="font-size:31px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         inkscape:label="#flowRoot2726"
+         transform="matrix(1.2799999,0,0,1.2802006,-7.1570394,-143.70868)"><flowRegion
+           id="flowRegion3319"><rect
+             id="rect3321"
+             width="651.53613"
+             height="383.31897"
+             x="125.71429"
+             y="133.71428"
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+           id="flowPara3323">Tab level 3 Sy</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="fr_tab2"
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="fr_tab2"
+         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans"
+         inkscape:label="#flowRoot2726"
+         transform="matrix(1.2799999,0,0,1.2802006,-32.757038,-142.07535)"><flowRegion
+           id="flowRegion2323"><rect
+             id="rect2325"
+             width="671.12756"
+             height="383.31897"
+             x="125.71429"
+             y="133.71428"
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans" /></flowRegion><flowPara
+           id="flowPara2327">Tab level 2 Sy</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g41"
+       inkscape:label="fr_tab1"
+       style="display:none">
+      <flowRoot
+         transform="matrix(1.2799999,0,0,1.2802006,-58.357036,-143.70868)"
+         inkscape:label="#flowRoot2726"
+         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="fr_tab1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2241"><rect
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             y="133.71428"
+             x="125.71429"
+             height="383.31897"
+             width="688.53613"
+             id="rect2243" /></flowRegion><flowPara
+           id="flowPara2245">Tab level 1 Sy</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="fr_tab0"
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="fr_tab0"
+         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         inkscape:label="#flowRoot2726"
+         transform="matrix(1.2799999,0,0,1.2802006,-90.482624,-143.70868)"><flowRegion
+           id="flowRegion2728"><rect
+             id="rect2730"
+             width="715.53613"
+             height="383.31897"
+             x="125.71429"
+             y="133.71428"
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
+           id="flowPara2732">Tab level 0 Sy</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="fr_attribution"
+       style="display:inline">
+      <flowRoot
+         xml:space="preserve"
+         id="fr_attribution"
+         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         inkscape:label="#flowRoot2726"
+         transform="matrix(1.2799999,0,0,1.2802006,-12.277039,-31.051034)"><flowRegion
+           id="flowRegion8422"><rect
+             id="rect8424"
+             width="544.53613"
+             height="374.31897"
+             x="125.71429"
+             y="133.71428"
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+           id="flowPara8426">Attribution Sy</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="fr_blockquote"
+       style="display:inline">
+      <flowRoot
+         transform="matrix(1.2799999,0,0,1.2802006,-12.277039,-143.70868)"
+         inkscape:label="#flowRoot2726"
+         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="fr_blockquote"
+         xml:space="preserve"><flowRegion
+           id="flowRegion8374"><rect
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             y="133.71428"
+             x="125.71429"
+             height="374.31897"
+             width="544.53613"
+             id="rect8376" /></flowRegion><flowPara
+           id="flowPara8378">Blockquote Sy</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="fr_literal_block"
+       style="display:inline">
+      <flowRoot
+         xml:space="preserve"
+         id="fr_literal_block"
+         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono"
+         inkscape:label="#flowRoot2726"
+         transform="matrix(1.2799999,0,0,1.2802006,-12.277039,-143.70868)"><flowRegion
+           id="flowRegion7906"><rect
+             id="rect7908"
+             width="544.53613"
+             height="374.31897"
+             x="125.71429"
+             y="133.71428"
+             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono" /></flowRegion><flowPara
+           id="flowPara7910">Blockquote Sy</flowPara></flowRoot>    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Instance"
+     style="display:inline"
+     transform="translate(0,168)"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Bullets"
+     style="display:none">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#d3d7cf;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="bu_1"
+       sodipodi:cx="81.5"
+       sodipodi:cy="177.5"
+       sodipodi:rx="6.5"
+       sodipodi:ry="6.5"
+       d="m 88,177.5 a 6.5,6.5 0 1 1 -13,0 6.5,6.5 0 1 1 13,0 z"
+       transform="matrix(0.91428564,0,0,0.91442896,9.9332649,-117.83287)"
+       inkscape:label="#path4316" />
+    <path
+       transform="matrix(0.91428564,0,0,0.91442896,9.9332649,-66.624845)"
+       d="m 88,177.5 a 6.5,6.5 0 1 1 -13,0 6.5,6.5 0 1 1 13,0 z"
+       sodipodi:ry="6.5"
+       sodipodi:rx="6.5"
+       sodipodi:cy="177.5"
+       sodipodi:cx="81.5"
+       id="bu_2"
+       style="fill:#000000;fill-opacity:1;stroke:#d3d7cf;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:label="#path3720" />
+    <path
+       inkscape:label="#path3720"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#d3d7cf;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="bu_3"
+       sodipodi:cx="81.5"
+       sodipodi:cy="177.5"
+       sodipodi:rx="6.5"
+       sodipodi:ry="6.5"
+       d="m 88,177.5 a 6.5,6.5 0 1 1 -13,0 6.5,6.5 0 1 1 13,0 z"
+       transform="matrix(0.91428564,0,0,0.91442896,9.9332649,-15.416825)" />
+  </g>
+</svg>

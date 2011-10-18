@@ -1,0 +1,21 @@
+Requests:
+
+  Victor:
+    Review groups - how would you recommend best using them?
+    In general, what are some of the best practices of effective uses of ReviewBoard?
+    Why are some things, like clicking on files to go to them, broken in Chrome.
+    Anything you can talk about future direction of ReviewBoard / new feature plans would definitely be awesome.
+
+  Alex:
+    Please please please please I want http://code.google.com/p/reviewboard/issues/detail?id=839 (convert tabs to n-spaces)
+
+  Matt:
+    I'd be curious to here their thoughts on when you should use code review (how early in the cycle should you start using it?).
+    Also, what kind of tools do they use for more macro-level reviews (eg design-level stuff)?
+    Have they used github pull request or rietveld or other code review systems? What does review board do better / worse, and how much of that is by design rather than time / difficulty?
+
+  Jason:
+    The design process for reviewboard (tradeoffs you make, how you test designs, what you are planning on working on in the future)
+    An architecture overview
+    Exciting things to look forward to
+    Cool features we may not know about (DONE)

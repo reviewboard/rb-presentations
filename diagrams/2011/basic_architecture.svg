@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="942.73999"
+   height="434.20001"
+   id="svg3101"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="basic_architecture.svg">
+  <defs
+     id="defs3103" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="368.9721"
+     inkscape:cy="-128.95813"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="916"
+     inkscape:window-height="637"
+     inkscape:window-x="4"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.0279002,60.795946)">
+    <g
+       id="g3196"
+       transform="matrix(1.28,0,0,1.279667,-1.6878118,-104.4288)">
+      <rect
+         style="fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4835"
+         width="204.77531"
+         height="57.775311"
+         x="249.51523"
+         y="154.78979" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="351.51224"
+         y="188.09155"
+         id="text4837"><tspan
+           sodipodi:role="line"
+           x="351.51224"
+           y="188.09155"
+           id="tspan4841">Review Board</tspan></text>
+      <rect
+         y="154.78979"
+         x="517.5152"
+         height="57.775311"
+         width="204.77531"
+         id="rect3206"
+         style="fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3208"
+         y="188.09155"
+         x="619.51227"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3210"
+           y="188.09155"
+           x="619.51227"
+           sodipodi:role="line">Repository</tspan></text>
+      <rect
+         y="274.78979"
+         x="249.51523"
+         height="57.775311"
+         width="204.77531"
+         id="rect3212"
+         style="fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3214"
+         y="308.09155"
+         x="351.51224"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3216"
+           y="308.09155"
+           x="351.51224"
+           sodipodi:role="line">memcached</tspan></text>
+      <rect
+         y="34.789825"
+         x="249.51523"
+         height="57.775311"
+         width="204.77531"
+         id="rect3218"
+         style="fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3220"
+         y="68.091553"
+         x="351.51224"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3222"
+           y="68.091553"
+           x="351.51224"
+           sodipodi:role="line">Database Server</tspan></text>
+      <rect
+         y="34.789825"
+         x="9.5152464"
+         height="57.775311"
+         width="204.77531"
+         id="rect3224"
+         style="fill:#e9b96e;fill-opacity:1;stroke:#7e5412;stroke-width:1.22469091;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3226"
+         y="68.091553"
+         x="111.51223"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3228"
+           y="68.091553"
+           x="111.51223"
+           sodipodi:role="line">Web Server</tspan></text>
+      <path
+         id="path4852"
+         d="m 350.9029,221.73998 -7.34375,7.03125 -7.34375,7 9.4375,0 0,16.8125 -9.4375,0 7.34375,7 7.34375,7.03125 7.34375,-7.03125 7.34375,-7 -9.4375,0 0,-16.8125 9.4375,0 -7.34375,-7 -7.34375,-7.03125 z"
+         style="fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 350.9029,101.73998 -7.34375,7.03125 -7.34375,7 9.4375,0 0,16.8125 -9.4375,0 7.34375,7 7.34375,7.03125 7.34375,-7.03125 7.34375,-7 -9.4375,0 0,-16.8125 9.4375,0 -7.34375,-7 -7.34375,-7.03125 z"
+         id="path3238"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3240"
+         d="m 462.4654,184.17748 7.03125,7.34375 7,7.34375 0,-9.4375 16.8125,0 0,9.4375 7,-7.34375 7.03125,-7.34375 -7.03125,-7.34375 -7,-7.34375 0,9.4375 -16.8125,0 0,-9.4375 -7,7.34375 -7.03125,7.34375 z"
+         style="fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3244"
+         d="m 166.6529,104.77123 0,74.15625 -0.1875,0 0,10.5 56.84375,0 0,9.4375 7,-7.34375 7.03125,-7.34375 -7.03125,-7.34375 -7,-7.34375 0,9.4375 -46.15625,0 0,-74.15625 -10.5,0 z"
+         style="fill:#281b06;fill-opacity:1;stroke:#000000;stroke-width:0.74597955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3249"
+         y="49.17746"
+         x="473.90292"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="49.17746"
+           x="473.90292"
+           id="tspan3251"
+           sodipodi:role="line">Data is stored in the database</tspan><tspan
+           id="tspan3255"
+           y="69.17746"
+           x="473.90292"
+           sodipodi:role="line">using Django's object-relational</tspan><tspan
+           id="tspan3259"
+           y="89.17746"
+           x="473.90292"
+           sodipodi:role="line">mapping system</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="486.90292"
+         y="253.17749"
+         id="text3261"><tspan
+           sodipodi:role="line"
+           x="486.90292"
+           y="253.17749"
+           id="tspan3267">Diffs are stored in Review Board</tspan><tspan
+           id="tspan3274"
+           sodipodi:role="line"
+           x="486.90292"
+           y="273.17749">as unified diffs against specific</tspan><tspan
+           id="tspan3276"
+           sodipodi:role="line"
+           x="486.90292"
+           y="293.17749">revisions of files in a repository.</tspan><tspan
+           id="tspan3278"
+           sodipodi:role="line"
+           x="486.90292"
+           y="313.17749">To display side-by-side diffs,</tspan><tspan
+           id="tspan3280"
+           sodipodi:role="line"
+           x="486.90292"
+           y="333.17749">we fetch the file from the</tspan><tspan
+           id="tspan3282"
+           sodipodi:role="line"
+           x="486.90292"
+           y="353.17749">repository, cache it, apply the</tspan><tspan
+           id="tspan3288"
+           sodipodi:role="line"
+           x="486.90292"
+           y="373.17749">diff and render it.</tspan></text>
+      <text
+         id="text3294"
+         y="287.17749"
+         x="5.9029002"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="287.17749"
+           x="5.9029002"
+           sodipodi:role="line"
+           id="tspan3308">Various pieces of data</tspan><tspan
+           id="tspan3337"
+           y="307.17749"
+           x="5.9029002"
+           sodipodi:role="line">(rendered diff fragments,</tspan><tspan
+           id="tspan3339"
+           y="327.17749"
+           x="5.9029002"
+           sodipodi:role="line">files from the repository,</tspan><tspan
+           id="tspan3341"
+           y="347.17749"
+           x="5.9029002"
+           sodipodi:role="line">etc.) are cached to improve</tspan><tspan
+           id="tspan3343"
+           y="367.17749"
+           x="5.9029002"
+           sodipodi:role="line">performance.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="6.902904"
+         y="127.17746"
+         id="text3345"><tspan
+           sodipodi:role="line"
+           x="6.902904"
+           y="127.17746"
+           id="tspan3355">Requests come in</tspan><tspan
+           id="tspan3373"
+           sodipodi:role="line"
+           x="6.902904"
+           y="147.17746">from the web</tspan><tspan
+           id="tspan3377"
+           sodipodi:role="line"
+           x="6.902904"
+           y="167.17746">server.</tspan></text>
+    </g>
+  </g>
+</svg>

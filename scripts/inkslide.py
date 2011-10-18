@@ -25,8 +25,8 @@ class inkSlide(object):
         self._nextId = 0
 
         self.gap = {
-            'bIMAGE': 20,   # gap before image
-            'aIMAGE': 20,    # gap after image
+            'bIMAGE': 15,   # gap before image
+            'aIMAGE': 15,    # gap after image
             'aTAB0': 20,    # gap after top level text
             'aTAB1': 20,    # gap after level 1 bullet
             'aTAB2': 20,    # gap after level 2 bullet
@@ -34,9 +34,9 @@ class inkSlide(object):
             'aLITERAL_BLOCK': 40,  # gap after literal blocks
             'aBLOCKQUOTE': 60, # gap after blockquotes
             'fVCENTER': 0,  # flag - center vertically
-            'dHEIGHT': 600, # dimension, bottom of page
+            'dHEIGHT': 768, # dimension, bottom of page
             'fHCENTER': 0,  # flag - center vertically
-            'dWIDTH': 800, # dimension, bottom of page
+            'dWIDTH': 1024, # dimension, bottom of page
         }
 
         self.dimCache = {}
