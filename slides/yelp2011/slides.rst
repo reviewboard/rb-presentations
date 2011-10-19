@@ -323,8 +323,7 @@ Issue Summary Table
 New Admin UI
 ============
 
-.. is:blank
-.. is:id newadmin
+.. image:: ../../graphics/screenshots/2011/new_admin.png
 
 
 ===========================

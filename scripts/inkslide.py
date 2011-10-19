@@ -630,7 +630,12 @@ class inkSlide(object):
                 i = self.doc.xpath(xpath, namespaces=self.NS)[0]
                 w = float(self.getDim(instance, this['id'], 'width'))
 
-                x = tabDim[0]['x'] + (tabDim[0]['max-width'] - w) / 2
+                max_width = tabDim[0]['max-width']
+
+                if w > max_width:
+                    x = (self.gap['dWIDTH'] - w) / 2
+                else:
+                    x = tabDim[0]['x'] + (max_width - w) / 2
 
                 i.set('x', str(int(x)))
                 y = tabDim[0]['y'] + delta
