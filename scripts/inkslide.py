@@ -31,7 +31,7 @@ class inkSlide(object):
             'aTAB1': 20,    # gap after level 1 bullet
             'aTAB2': 20,    # gap after level 2 bullet
             'aTAB3': 20,    # gap after level 3 bullet
-            'aLITERAL_BLOCK': 40,  # gap after literal blocks
+            'bLITERAL_BLOCK': 0,  # gap after literal blocks
             'aBLOCKQUOTE': 60, # gap after blockquotes
             'fVCENTER': 0,  # flag - center vertically
             'dHEIGHT': 768, # dimension, bottom of page
