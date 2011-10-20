@@ -347,6 +347,56 @@ Extensions
 
   * Connect handlers for events
 
+  * Add new dashboard widgets for the Admin UI
+
   * Versioned and installed outside of the Review Board tree
 
+  * Automatically shows up in the list of extensions when installed.
+
 * 1.7 will be an unstable API
+
+* 2.0 will have a final, documented API
+
+
+========================
+Many uses for extensions
+========================
+
+* Bug tracker integration
+
+* Automatically run tests on new changes
+
+* Automated reviewing for lintian and style checks
+
+* Custom review UIs for non-diff files
+
+* Statistics and reporting
+
+* New ways to notify on review request updates
+
+* Show restaurant recommendations after long review cycles
+
+
+==========================
+Writing extensions is easy
+==========================
+
+* Packages as Python eggs
+
+* Simple classes based around defining "hooks"
+
+::
+
+    class ReportsExtension(Extension):
+        def __init__(self):
+            super(MyExtension, self).__init__()
+
+            self.hooks = [
+                DashboardHook(self, [{
+                    'label': 'Reports',
+                    'url': 'reports/',
+                }]),
+                URLHook(self, patterns('',
+                    (r'^reports/',
+                     include('rbreports.urls')))),
+            ]

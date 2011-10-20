@@ -14,7 +14,7 @@ all:
 
 $(TARGETS): %: %.list
 
-$(TARGET_LISTS): %.list: slides/%/slides.rst
+$(TARGET_LISTS): %.list: slides/%/slides.rst slides/%/template.svg scripts/inkslide.py
 	   @slides_dir="$(dir $<)" \
 	&& cd "$$slides_dir" \
 	&& "$(INKSLIDE)" template.svg slides.rst \

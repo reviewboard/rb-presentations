@@ -14,7 +14,7 @@
    height="768"
    id="svg2383"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="template.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -92,18 +92,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59316868"
-     inkscape:cx="512"
-     inkscape:cy="306.99469"
-     inkscape:current-layer="layer17"
+     inkscape:zoom="1.4118735"
+     inkscape:cx="497.22646"
+     inkscape:cy="461.37455"
+     inkscape:current-layer="layer9"
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1278"
-     inkscape:window-height="729"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1330"
+     inkscape:window-height="937"
+     inkscape:window-x="40"
+     inkscape:window-y="-4"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -125,7 +125,7 @@
     </rdf:RDF>
   </metadata>
   <image
-     sodipodi:absref="/home/david/Projects/rb-presentations/slides/yelp2011/background.svg"
+     sodipodi:absref="/home/chipx86/Documents/Presentations/Review Board/slides/yelp2011/background.svg"
      xlink:href="background.svg"
      width="1024"
      height="768.12036"
@@ -144,7 +144,7 @@
      id="layer8"
      inkscape:label="Blockquotes"
      style="display:none"
-     transform="translate(0,168)"
+     transform="matrix(1.0515842,0,0,1,-5.2215008,168)"
      sodipodi:insensitive="true">
     <path
        id="bq_left"
@@ -202,7 +202,7 @@
      id="layer9"
      inkscape:label="Frames"
      style="display:none"
-     transform="translate(0,168)"
+     transform="matrix(1.1407533,0,0,1,-9.9142872,168)"
      sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
@@ -307,7 +307,7 @@
       <flowRoot
          transform="matrix(1.2799999,0,0,1.2802006,-12.277039,-143.70868)"
          inkscape:label="#flowRoot2726"
-         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          id="fr_blockquote"
          xml:space="preserve"><flowRegion
            id="flowRegion8374"><rect
@@ -326,17 +326,18 @@
       <flowRoot
          xml:space="preserve"
          id="fr_literal_block"
-         style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono"
+         style="font-size:16.82240105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1359.56604004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono"
          inkscape:label="#flowRoot2726"
          transform="matrix(1.2799999,0,0,1.2802006,-12.277039,-143.70868)"><flowRegion
            id="flowRegion7906"><rect
              id="rect7908"
-             width="544.53613"
+             width="580.14856"
              height="374.31897"
              x="125.71429"
              y="133.71428"
-             style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono" /></flowRegion><flowPara
-           id="flowPara7910">Blockquote Sy</flowPara></flowRoot>    </g>
+             style="font-size:16.82240105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono" /></flowRegion><flowPara
+           id="flowPara7910">Blockquote Sy</flowPara><flowPara
+           id="flowPara3047" /></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"
