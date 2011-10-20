@@ -313,9 +313,11 @@ Features planned for 1.7
 Issue Summary Table
 ===================
 
-.. TODO: add an image
-
 * Building on Issue Tracking support that shipped with 1.6
+
+.. is:offset_y +50
+
+.. image:: ../../graphics/screenshots/2011/issue_summary.png
 
 
 ============
