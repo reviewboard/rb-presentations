@@ -143,7 +143,7 @@ Basic Architecture
 View diff process
 =================
 
-.. image:: ../../diagrams/2010/view_diff_process.svg
+.. image:: ../../diagrams/2011/view_diff_process.svg
 
 
 =====================
@@ -171,8 +171,7 @@ Dashboard customization
 
 .. image:: ../../graphics/screenshots/2010/dashboard_customization.png
 
-.. is:offset_x +20
-.. is:offset_y -200
+.. is:offset_y -175
 
 * Drag columns to rearrange them
 
@@ -255,9 +254,9 @@ Web API
 
 * Can do *almost* everything the Review Board web UI can do
 
-* HTTP GET/POST with JSON responses
+* Fully REST (and we really do mean it)
 
-* Future versions will be more REST-ful.
+* Supports both XML and JSON formats
 
 * Examples of existing clients:
 
@@ -400,3 +399,10 @@ Writing extensions is easy
                     (r'^reports/',
                      include('rbreports.urls')))),
             ]
+
+
+=====================
+Thanks for listening!
+=====================
+
+Any questions?
