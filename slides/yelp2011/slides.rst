@@ -58,29 +58,6 @@ Goals
 * Extensibility
 
 
-================
-Ended up with...
-================
-
-* One of the most well-known open source code review systems
-
-* Awesome features
-
-  * A powerful diff viewer
-
-  * Customizable dashboard for incoming and outgoing review requests
-
-  * Full history of all reviews
-
-  * Full-text search
-
-  * Image and file commenting support
-
-  * Moved-line detection and other unique diff features
-
-* Many satisfied users across hundreds of companies
-
-
 ===========================
 Some details and statistics
 ===========================
@@ -112,6 +89,10 @@ Architecture Overview
 
 * How the diff view works
 
+* Myers Diff algorithm
+
+* Full-text search
+
 
 ===============
 Django and LAMP
@@ -119,17 +100,17 @@ Django and LAMP
 
 * Django is a web framework for Python
 
-* Lots of deployment options
+* Choice of deployment options
 
-  * Linux, Mac OSX, and Windows (sorta)
+* Functionality is split up into "apps"
 
-  * Apache, Nginx, Lighttpd, and more
+  * Models
 
-  * MySQL, Postgres, SQLite, and more
+  * Templates
 
-* In practice, most real deployments use typical LAMP
+  * Views
 
-  * Linux, Apache, MySQL, Python
+  * Other stuff (URLs, forms, admin)
 
 
 ==================
@@ -144,6 +125,34 @@ View diff process
 =================
 
 .. image:: ../../diagrams/2011/view_diff_process.svg
+
+
+====================
+Myers Diff algorithm
+====================
+
+* Turns diff into a graph search problem
+
+  * Finds common subsequences, optimizing for length
+
+  * Solves remaining differences to find fewest insert/delete blocks
+
+* Additional heuristics borrowed from GNU diff
+
+* O(ND) performance
+
+
+================
+Full-text search
+================
+
+* Built on top of PyLucene
+
+  * Python frontend to JVM Lucene
+
+* First full index
+
+* Scheduled cron-job incremental indexes
 
 
 =====================
