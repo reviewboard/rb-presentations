@@ -403,25 +403,6 @@ Extensions
 * 2.0 will have a final, documented API
 
 
-========================
-Many uses for extensions
-========================
-
-* Bug tracker integration
-
-* Automatically run tests on new changes
-
-* Automated reviewing for lintian and style checks
-
-* Custom review UIs for non-diff files
-
-* Statistics and reporting
-
-* New ways to notify on review request updates
-
-* Show restaurant recommendations after long review cycles
-
-
 ==========================
 Writing extensions is easy
 ==========================
@@ -445,6 +426,25 @@ Writing extensions is easy
                     (r'^reports/',
                      include('rbreports.urls')))),
             ]
+
+
+========================
+Many uses for extensions
+========================
+
+* Bug tracker integration
+
+* Automatically run tests on new changes
+
+* Automated reviewing for lintian and style checks
+
+* Custom review UIs for non-diff files
+
+* Statistics and reporting
+
+* New ways to notify on review request updates
+
+* Show restaurant recommendations after long review cycles
 
 
 =====================
