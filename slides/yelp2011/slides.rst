@@ -309,22 +309,26 @@ Default Reviewers
 Features planned for 1.7
 ========================
 
-* Issue summary table
+* Issue tracking enhancements
 
 * New Admin UI
 
-* Less space for diff storage
+* Smaller footprint and performance enhancements
+
+* Reviewable binary files in diff viewer
 
 * Extensions (preview)
 
 
-===================
-Issue Summary Table
-===================
+===========================
+Issue tracking enhancements
+===========================
 
 * Building on Issue Tracking support that shipped with 1.6
 
-.. is:offset_y +50
+* Automatically show what issues were fixed on new diffs (less typing!)
+
+* Summary of all filed issues
 
 .. image:: ../../graphics/screenshots/2011/issue_summary.png
 
@@ -336,13 +340,44 @@ New Admin UI
 .. image:: ../../graphics/screenshots/2011/new_admin.png
 
 
-===========================
-Less space for diff storage
-===========================
+==============================================
+Smaller footprint and performance enhancements
+==============================================
 
-* Multiple diff revisions end up wasting space
+* Smaller database sizes
 
-* Hash each filediff and only store once
+  * Multiple diff revisions end up wasting space
+
+  * Hash each file's diff and only store once
+
+  * Savings of gigabytes over time
+
+* Faster downloads
+
+  * Squashing together all the CSS and JavaScript and minifying
+
+  * Putting images together in a single spritesheet
+
+  * Over 30 fewer downloads in total
+
+* Faster UI
+
+  * Updating to the latest jQuery and jQuery-UI, which gives us some
+    great performance enhancements
+
+
+================================
+Reviewable binary files in diffs
+================================
+
+* Non-diffable files as part of a change can automatically be uploaded
+  for review
+
+* Shows up in the diff viewer alongside diff content
+
+* Comment on the file as a whole
+
+* Pluggable support for custom review UIs for files (documents, etc.)
 
 
 ==========
